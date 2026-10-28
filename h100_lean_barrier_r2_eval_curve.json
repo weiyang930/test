@@ -1,0 +1,38 @@
+[
+ {
+  "tag": "step0",
+  "proofnet_test_n32": {
+   "attempt_pass_rate": 0.0363,
+   "pass@32": 0.0994
+  },
+  "minif2f_test_n32": {
+   "attempt_pass_rate": 0.3052,
+   "pass@32": 0.4713
+  }
+ },
+ {
+  "tag": "checkpoint-100",
+  "minif2f_test_n32": {
+   "attempt_pass_rate": 0.3511,
+   "pass@32": 0.4754
+  }
+ },
+ {
+  "tag": "checkpoint-200",
+  "minif2f_test_n32": {
+   "attempt_pass_rate": 0.3674,
+   "pass@32": 0.4836
+  }
+ },
+ {
+  "tag": "checkpoint-299",
+  "proofnet_test_n32": {
+   "attempt_pass_rate": 0.0491,
+   "pass@32": 0.1215
+  },
+  "minif2f_test_n32": {
+   "attempt_pass_rate": 0.3773,
+   "pass@32": 0.4877
+  }
+ }
+]
